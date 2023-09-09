@@ -1,6 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Observatory - Characterizing Embeddings of Relational Tables
+summary: Develop a comprehensive understanding of the strengths and weaknesses of language models and
+table embedding models. Introduce a formal framework for systematically analyzing the embedding
+representations of relational tables to improve efficiency and success in downstream applications.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
