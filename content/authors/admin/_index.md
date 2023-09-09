@@ -3,8 +3,8 @@
 title: Zhenjie Sun
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhenjie
+last_name: Sun
 
 # Status emoji
 status:
