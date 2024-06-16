@@ -60,7 +60,7 @@ h1, h2, h3, p {
 }
 
 a {
-    color: blue;
+    color: #0cd279; /* Example green color */
 }
 
 section {
@@ -99,11 +99,7 @@ li {
     color: #05889C; /* Example green color */
     text-decoration: none; /* Typically links are underlined, so remove if not desired */
 }
-/* Optional: for specifying styles for links if any */
-a {
-    color: blue;
-    text-decoration: none; /* Assuming no underline unless hovered */
-}
+
 
 a:hover {
     text-decoration: underline;
