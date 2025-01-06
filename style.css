@@ -1,0 +1,106 @@
+.publications {
+    margin-bottom: 20px;
+}
+
+.publications h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.year h3 {
+    font-size: 20px;
+    color: navy;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.publications ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.publications li {
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.publications a {
+    color: blue;
+    text-decoration: none; /* Optional: if you don't want underlines */
+}
+
+.publications strong {
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-photo {
+    width: 200px; /* Adjusted size */
+    height: auto;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #0cd279; /* Example green color */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+.publication {
+    font-family: Arial, Helvetica, sans-serif; /* Fallbacks included */
+    color: black;
+    text-align: left;
+}
+
+.publication-title {
+    font-size: 18px; /* or larger, depending on exact sizing needs */
+    margin-bottom: 5px; /* space between title and authors */
+}
+
+.publication-authors {
+    font-size: 16px;
+    margin-bottom: 2px; /* space between authors and publication venue */
+}
+
+.publication-details {
+    font-size: 14px;
+}
+
+.publication a {
+    color: #05889C; /* Example green color */
+    text-decoration: none; /* Typically links are underlined, so remove if not desired */
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
